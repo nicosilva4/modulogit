@@ -1,6 +1,1 @@
-Meu primeiro sistema no Git
-
-Alterando o README.
-
-Nova linha adicionada.
-Linha adicionada em Teste.
+Meu primeiro sistema no Git (alterado e atualizado!)
